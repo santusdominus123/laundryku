@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LaundryKu</string>
+
+    <string-array name="service_types">
+        <item>Cuci Kering</item>
+        <item>Cuci Setrika</item>
+        <item>Dry Cleaning</item>
+    </string-array>
+
+    <!-- Login strings -->
+    <string name="login_title">Masuk ke Akun Anda</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">MASUK</string>
+
+    <string name="login_failed">Login gagal. Cek kembali username dan password</string>
+    <string name="register_coming_soon">Fitur pendaftaran akan segera hadir</string>
+    <string name="order_id_format">Order #%s</string>
+</resources>

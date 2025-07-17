@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default Android Colors -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#4CAF50</color>
+
+    <!-- Primary App Colors -->
+    <color name="primary_color">#1E88E5</color>          <!-- Modern blue - for headers, main buttons -->
+    <color name="primary_dark">#1565C0</color>           <!-- Darker blue for status bar -->
+    <color name="accent_color">#26A69A</color>           <!-- Teal - for secondary elements -->
+    <color name="background_color">#FAFAFA</color>       <!-- Very light gray background -->
+
+    <!-- Status Colors -->
+    <color name="status_pending">#FF7043</color>         <!-- Warm orange for pending -->
+    <color name="status_in_progress">#1E88E5</color>     <!-- Blue for in progress -->
+    <color name="status_completed">#66BB6A</color>       <!-- Green for completed -->
+    <color name="status_cancelled">#EF5350</color>       <!-- Red for cancelled -->
+
+    <!-- Action Colors -->
+    <color name="update_button_color">#66BB6A</color>    <!-- Soft green for update button -->
+    <color name="delete_button_color">#EF5350</color>    <!-- Soft red for delete button -->
+
+    <!-- Text Colors -->
+    <color name="text_primary">#263238</color>           <!-- Dark blue-gray for primary text -->
+    <color name="text_secondary">#546E7A</color>         <!-- Medium blue-gray for secondary text -->
+    <color name="text_hint">#90A4AE</color>              <!-- Light blue-gray for hints -->
+
+    <!-- Additional Colors -->
+    <color name="card_background">#FFFFFF</color>        <!-- White for card backgrounds -->
+    <color name="divider_color">#ECEFF1</color>          <!-- Very light blue-gray for dividers -->
+    <color name="success_color">#66BB6A</color>          <!-- Green for success messages -->
+    <color name="error_color">#EF5350</color>            <!-- Red for error messages -->
+    <color name="warning_color">#FF7043</color>          <!-- Orange for warnings -->
+
+    <!-- Service Card Colors -->
+    <color name="service_card_1">#E3F2FD</color>         <!-- Light blue for service cards -->
+    <color name="service_card_2">#E0F2F1</color>         <!-- Light teal for service cards -->
+    <color name="service_card_3">#FFF3E0</color>         <!-- Light orange for service cards -->
+
+    <!-- Transparent Colors -->
+    <color name="transparent">#00000000</color>
+
+</resources>
